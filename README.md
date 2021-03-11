@@ -38,4 +38,4 @@ There are some unit tests for coverage. These are light tests since we're just h
 ## Notes:
 
 - I added a few extra endpoints because I wanted to fetch all of the data I needed from the same API without having to write down the information. There is a `api/submittals` endpoint as requested, with a POST and PATCH request for creating and modifying submittals.
-- I was unsure about the kind of data needed for sending in submittals since the data received from the sample set was different from the actual Procore API. I just went with the specifications of the Procore API and just accepted those as possible options for a submittal when using the API.
+- I was unsure about the kind of data needed for sending in submittals since the data received from the sample set was different from the actual Procore API. I just went with the specifications of the Procore API and just accepted those as possible options for a submittal when using the API, only needing the number as a required field.

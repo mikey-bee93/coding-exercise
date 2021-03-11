@@ -29,6 +29,7 @@
 
 - `git clone git@github.com:mikey-bee93/coding-exercise.git`
 - `npm install`
+- `npm start`
 
 ## Tests:
 
